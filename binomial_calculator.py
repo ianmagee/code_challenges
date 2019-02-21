@@ -1,3 +1,6 @@
+# Calculates probability for a binomial distribution - I created my own functions (for fun) instead of using existing libraries
+
+
 # CREATING FUNCTIONS FROM SCRATCH TO IMPLEMENT BINOMIAL MODEL
 
 def factorial(num):
